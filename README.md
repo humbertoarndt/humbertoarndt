@@ -1,6 +1,6 @@
 ### Hi there 👋 <h3>
 * 👨‍🎓 I'm a student at [42 São Paulo](https://www.42sp.org.br)
-* 🔰 Learning C at the momment
+* 🔰 Learning C at the moment
 * 🔗 For business [inquiries](https://www.linkedin.com/in/humberto-arndt-07b2aa153/)
 * 💼 i used to be a business analyst
 
