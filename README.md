@@ -6,4 +6,6 @@
 
 <div align="center">
 
-![phase_one](https://github.com/humbertoarndt/42_badges/phase_onee.png)
+(https://github.com/humbertoarndt/42_badges/phase_onee.png)
+
+  </div>
