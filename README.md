@@ -15,6 +15,6 @@
 | 1 | [fdf](https://github.com/humbertoarndt/FdF) | C | 125% | Create a program to represent a landscape as a 3D object as a wireframe. | [![FDF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfm.png)](https://github.com/humbertoarndt/FdF) |
 | 1 | [minitalk](https://github.com/humbertoarndt/minitalk) | C | 115% | Create a small data exchange program using UNIX signals. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkm.png)](https://github.com/humbertoarndt/minitalk) |
 | 2 | [push_swap](https://github.com/humbertoarndt/push_swap) | C | 86% | Sort a list o random numbers in the least amount of moves possible. | [![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swapm.png)](https://github.com/humbertoarndt/push_swap) |
-| 2 | [minishell](https://github.com/humbertoarndt/minishell) | WIP | | In a group, create a miniature shell program. |
+| 2 | [minishell](https://github.com/humbertoarndt/minishell) | C | WIP | In a group, create a miniature shell program. |
   
 </details>
