@@ -23,10 +23,11 @@
 
 | Week | Project | Language | Grade | Description |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | [Hello](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/hello.c) | C | 100% | Create a program that greets an user. |
-| 1 | [Mario-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_less.c) | C | 100% | Create a left-sided pyramid in C, usin `#` for bricks. |
-| 1 | [Mario-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_more.c) | C | 100% | Create a double-sided pyramid in C, usin `#` for bricks. |
-| 1 | [Cash](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/cash.c) | C | 100% | Implement a greedy algorithm to calculate coins change. |
-| 1 | [Credit](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/credit.c)) | C | 100% | Create a program to validate credit cards. |
+| 01 | [Hello](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/hello.c) | C | 100% | Create a program that greets an user. |
+| 01 | [Mario-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_less.c) | C | 100% | Create a left-sided pyramid in C, using `#` for bricks. |
+| 01 | [Mario-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_more.c) | C | 100% | Create a double-sided pyramid in C, using `#` for bricks. |
+| 01 | [Cash](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/cash.c) | C | 100% | Implement a greedy algorithm to calculate coins change. |
+| 01 | [Credit](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/credit.c) | C | 100% | Create a program to validate credit cards. |
+| 02 | [Readability](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/readability.c) | C | 100% | Create a program to grade a text by the <i>Coleman-Liau index</i> test.  |
   
 </details>
