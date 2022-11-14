@@ -27,6 +27,6 @@
 | 1 | [Mario-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_less.c) | C | 100% | Create a left-sided pyramid in C, usin `#` for bricks. |
 | 1 | [Mario-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_more.c) | C | 100% | Create a double-sided pyramid in C, usin `#` for bricks. |
 | 1 | [Cash](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/cash.c) | C | 100% | Implement a greedy algorithm to calculate coins change. |
-| 1 | [Credit](https://github.com/humbertoarndt/FdF) | C | 100% | Create a program to validate credit cards. |
+| 1 | [Credit](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/credit.c)) | C | 100% | Create a program to validate credit cards. |
   
 </details>
