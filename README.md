@@ -4,7 +4,7 @@
 
 ---
 
-<details><summary><h1>42 School Projects 🚀</h1></summary>
+<details><summary><h1>🚀 42 School Projects</h1></summary>
 
 | Phase | Project | Language | Grade | Description | Medal |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -21,7 +21,7 @@
 
 ---
 
-<details><summary><h1>Harvard - CS50 🏫</h1></summary>
+<details><summary><h1>🏫 Harvard - CS50 </h1></summary>
 
 | Week | Project | Language | Grade | Description |
 | :---: | :---: | :---: | :---: | :---: |
