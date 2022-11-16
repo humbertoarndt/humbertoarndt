@@ -33,5 +33,6 @@
 | 02 | [Readability](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/readability.c) | C | 100% | Create a program to grade a text by the <i>Coleman-Liau index</i> test. |
 | 02 | [Caesar](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/caesar.c) | C | 100% | Design and implement a program that encrypts messages using Caesar’s cipher. |
 | 02 | [Substitution](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/substitution.c) | C | 100% | Design and implement a program that implements a substitution cipher. |
+| 02 | [Scrabble](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/scrabble.c) | C | 100% | Create a program that determines which of two Scrabble words is worth more. |
   
 </details>
