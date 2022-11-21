@@ -34,7 +34,7 @@
 | 02 | [Caesar](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/caesar.c) | C | 100% | Design and implement a program that encrypts messages using Caesar’s cipher. |
 | 02 | [Substitution](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/substitution.c) | C | 100% | Design and implement a program that implements a substitution cipher. |
 | 02 | [Scrabble](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/scrabble.c) | C | 100% | Create a program that determines which of two Scrabble words is worth more. |
-| 03 | [Plurality](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/plurality.c) | C | 100% | Create a program that runs a pluralitu election. |
+| 03 | [Plurality](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/plurality.c) | C | 100% | Create a program that runs a plurality election. |
 | 03 | [Runoff](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/runoff.c) | C | 100% | Create a program that runs a runoff election. |
   
 </details>
