@@ -36,6 +36,6 @@
 | 02 | [Scrabble](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_2/scrabble.c) | C | 100% | Create a program that determines which of two Scrabble words is worth more. |
 | 03 | [Plurality](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/plurality.c) | C | 100% | Create a program that runs a plurality election. |
 | 03 | [Runoff](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/runoff.c) | C | 100% | Create a program that runs a runoff election. |
-| 03 | [Sort](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/sort.c) | C | 100% | Identify the sorting methods. |
+| 03 | [Sort](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/sort.txt) | C | 100% | Identify the sorting methods. |
   
 </details>
