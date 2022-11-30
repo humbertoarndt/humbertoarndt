@@ -38,5 +38,8 @@
 | 03 | [Runoff](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/runoff.c) | C | 100% | Create a program that runs a runoff election. |
 | 03 | [Tideman](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/tideman.c) | C | 72% | Create a program that runs a ranked preference election. |
 | 03 | [Sort](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_3/sort.txt) | C | 100% | Identify the sorting methods. |
+| 04 | [Filter-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-less) | C | 100% | Implement a program that applies filters to BMPs. |
+| 04 | [Filter-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/filter-more) | C | WIP | Implement a program that applies filters to BMPs. |
+| 04 | [Recover](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/recover) | C | WIP | Implement a program that recovers JPEGs from a forensic image. |
   
 </details>
