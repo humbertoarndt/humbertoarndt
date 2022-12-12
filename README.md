@@ -43,3 +43,17 @@
 | 04 | [Recover](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_4/recover) | C | 100% | Implement a program that recovers JPEGs from a forensic image. |
   
 </details>
+
+---
+
+<details><summary><h1>🧮 Project Euler</h1></summary>
+  
+| Problem | Language | Solved |
+| :---: | :---: | :---: |
+| [Multiples of 3 or 5](https://github.com/humbertoarndt/project-euler/tree/main/problem-01)	| C | 01 Apr 22 (16:44.04) |
+| [Even Fibonacci numbers](https://github.com/humbertoarndt/project-euler/tree/main/problem-02) | C |06 Dec 22 (19:09.48) |
+| [Largest prime factor](https://github.com/humbertoarndt/project-euler/tree/main/problem-03) | C | 06 Dec 22 (19:52.24) |
+| [Largest palindrome product](https://github.com/humbertoarndt/project-euler/tree/main/problem-04) | C | 12 Dec 22 (20:08.40) |
+| [Smallest multiple](https://github.com/humbertoarndt/project-euler/tree/main/problem-05) | C | 12 Dec 22 (20:32.20) |
+
+</details>
