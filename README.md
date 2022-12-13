@@ -7,7 +7,7 @@
 <details><summary><h1>🚀 42 School Projects</h1></summary>
 
 | Phase | Project | Language | Grade | Description | Medal |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: | :---: |
 | 1 | [libft](https://github.com/humbertoarndt/libft) | C | 125% | Create a library of basci functions. | [![Libft](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/libftm.png)](https://github.com/humbertoarndt/libft) |
 | 1 | [get_next_line](https://github.com/humbertoarndt/get_next_line) | C | 100% | Read a single line from a fd. | [![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linee.png)](https://github.com/humbertoarndt/get_next_line) |
 | 1 | [ft_printf](https://github.com/humbertoarndt/ft_printf) | C | 100% | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
@@ -24,7 +24,7 @@
 <details><summary><h1>🏫 Harvard - CS50 </h1></summary>
 
 | Week | Project | Language | Grade | Description |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :--- | :---: | :---: | :---: |
 | 01 | [Hello](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/hello.c) | C | 100% | Create a program that greets an user. |
 | 01 | [Mario-less](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_less.c) | C | 100% | Create a left-sided pyramid in C, using `#` for bricks. |
 | 01 | [Mario-more](https://github.com/humbertoarndt/Harvard_CS50/blob/master/week_1/mario_more.c) | C | 100% | Create a double-sided pyramid in C, using `#` for bricks. |
@@ -48,12 +48,13 @@
 
 <details><summary><h1>🧮 Project Euler</h1></summary>
   
-| Problem | Language | Solved |
-| :---: | :---: | :---: |
-| [Multiples of 3 or 5](https://github.com/humbertoarndt/project-euler/tree/main/problem-01)	| C | 01 Apr 22 (16:44.04) |
-| [Even Fibonacci numbers](https://github.com/humbertoarndt/project-euler/tree/main/problem-02) | C |06 Dec 22 (19:09.48) |
-| [Largest prime factor](https://github.com/humbertoarndt/project-euler/tree/main/problem-03) | C | 06 Dec 22 (19:52.24) |
-| [Largest palindrome product](https://github.com/humbertoarndt/project-euler/tree/main/problem-04) | C | 12 Dec 22 (20:08.40) |
-| [Smallest multiple](https://github.com/humbertoarndt/project-euler/tree/main/problem-05) | C | 12 Dec 22 (20:32.20) |
-
+| ID | Problem | Language | Solved |
+| :---: | :--- | :---: | :---: |
+| #001 | [Multiples of 3 or 5](https://github.com/humbertoarndt/project-euler/blob/main/p1.c)	| C | 01 Apr 22 (16:44.04) |
+| #002 | [Even Fibonacci numbers](https://github.com/humbertoarndt/project-euler/blob/main/p2.c) | C |06 Dec 22 (19:09.48) |
+| #003 | [Largest prime factor](https://github.com/humbertoarndt/project-euler/blob/main/p3.c) | C | 06 Dec 22 (19:52.24) |
+| #004 | [Largest palindrome product](https://github.com/humbertoarndt/project-euler/blob/main/p4.c) | C | 12 Dec 22 (20:08.40) |
+| #005 | [Smallest multiple](https://github.com/humbertoarndt/project-euler/blob/main/p5.c) | C | 12 Dec 22 (20:32.20) |
+| #006 | [Sum square difference](https://github.com/humbertoarndt/project-euler/blob/main/p6.c) | C | 12 Dec 22 (21:33.53) |
+  
 </details>
