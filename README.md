@@ -56,5 +56,7 @@
 | #004 | [Largest palindrome product](https://github.com/humbertoarndt/project-euler/blob/main/p4.c) | C | 12 Dec 22 (20:08.40) |
 | #005 | [Smallest multiple](https://github.com/humbertoarndt/project-euler/blob/main/p5.c) | C | 12 Dec 22 (20:32.20) |
 | #006 | [Sum square difference](https://github.com/humbertoarndt/project-euler/blob/main/p6.c) | C | 12 Dec 22 (21:33.53) |
+| #007 | [10001st prime](https://github.com/humbertoarndt/project-euler/blob/main/p7.c) | C | 13 Dec 22 (17:51.59) |
+| #008 | [Largest product in a series](https://github.com/humbertoarndt/project-euler/blob/main/p8.c) | C | 13 Dec 22 (21:10.40) |
   
 </details>
