@@ -60,5 +60,6 @@
 | #008 | [Largest product in a series](https://github.com/humbertoarndt/project-euler/blob/main/p008.c) | C | 13 Dec 22 (21:10.40) |
 | #009 | [Special Pythagorean triplet](https://github.com/humbertoarndt/project-euler/blob/main/p009.c) | C | 14 Dec 22 (16:16.02) |
 | #010 | [Summation of primes](https://github.com/humbertoarndt/project-euler/blob/main/p010.c) | C | 15 Dec 22 (15:31.40) |
+| #011 | [Largest product in a grid](https://github.com/humbertoarndt/project-euler/blob/main/p011.c) | C | 02 Jan 23 (20:27.58) |
   
 </details>
