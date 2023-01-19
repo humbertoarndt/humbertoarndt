@@ -63,6 +63,7 @@
 | #010 | [Summation of primes](https://github.com/humbertoarndt/project-euler/blob/main/p010.c) | C | 15 Dec 22 (15:31.40) |
 | #011 | [Largest product in a grid](https://github.com/humbertoarndt/project-euler/blob/main/p011.c) | C | 02 Jan 23 (20:27.58) |
 | #012 | [Highly divisible triangular number](https://github.com/humbertoarndt/project-euler/blob/main/p012.c) | C | 06 Jan 23 (15:12.54) |
-| #013 | [Large sum](https://github.com/humbertoarndt/project-euler/blob/main/p012.c) | C | 19 Jan 23 (13:08.41) |
+| #013 | [Large sum](https://github.com/humbertoarndt/project-euler/blob/main/p013.c) | C | 19 Jan 23 (13:08.41) |
+| #014 | [Longest Collatz sequence](https://github.com/humbertoarndt/project-euler/blob/main/p014.c) | C | 19 Jan 23 (16:00.26) |
   
 </details>
