@@ -16,6 +16,7 @@
 | 1 | [minitalk](https://github.com/humbertoarndt/minitalk) | C | 115% | Create a small data exchange program using UNIX signals. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkm.png)](https://github.com/humbertoarndt/minitalk) |
 | 2 | [push_swap](https://github.com/humbertoarndt/push_swap) | C | 86% | Sort a list o random numbers in the least amount of moves possible. | [![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swapm.png)](https://github.com/humbertoarndt/push_swap) |
 | 2 | [minishell](https://github.com/humbertoarndt/minishell) | C | WIP | In a group, create a miniature shell program. |
+| 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | WIP | WIP |
 | LABS | [labs-v4](https://github.com/humbertoarndt/labs-v4) | C | ??? | Encode and Decode a file using Huffman Code and shared memory. | No badge |
   
 </details>
