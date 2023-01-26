@@ -6,18 +6,18 @@
 
 <details><summary><h1>🚀 42 School Projects</h1></summary>
 
-| Phase | Project | Language | Grade | Description | Medal |
-| :---: | :--- | :---: | :---: | :---: | :---: |
-| 1 | [libft](https://github.com/humbertoarndt/libft) | C | 125% | Create a library of basci functions. | [![Libft](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/libftm.png)](https://github.com/humbertoarndt/libft) |
-| 1 | [get_next_line](https://github.com/humbertoarndt/get_next_line) | C | 100% | Read a single line from a fd. | [![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linee.png)](https://github.com/humbertoarndt/get_next_line) |
-| 1 | [ft_printf](https://github.com/humbertoarndt/ft_printf) | C | 100% | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
-| 1 | [born2beroot](https://github.com/humbertoarndt/Born2beRoot) | Shell, CLI | 100% | Create a virtual machine. | [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) |
-| 1 | [fdf](https://github.com/humbertoarndt/FdF) | C | 125% | Create a program to represent a landscape as a 3D object as a wireframe. | [![FDF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfm.png)](https://github.com/humbertoarndt/FdF) |
-| 1 | [minitalk](https://github.com/humbertoarndt/minitalk) | C | 115% | Create a small data exchange program using UNIX signals. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkm.png)](https://github.com/humbertoarndt/minitalk) |
-| 2 | [push_swap](https://github.com/humbertoarndt/push_swap) | C | 86% | Sort a list o random numbers in the least amount of moves possible. | [![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swapm.png)](https://github.com/humbertoarndt/push_swap) |
-| 2 | [minishell](https://github.com/humbertoarndt/minishell) | C | WIP | In a group, create a miniature shell program. |
-| 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | WIP | Resolve a variation on the famous dining philosophers problem.  |
-| LABS | [labs-v4](https://github.com/humbertoarndt/labs-v4) | C | ??? | Encode and Decode a file using Huffman Code and shared memory. | No badge |
+| Phase | Project | Language | Grade | Start | End | Description | Medal |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | [libft](https://github.com/humbertoarndt/libft) | C | 125% | 04/04/2022 | 02/05/2022 | Create a library of basci functions. | [![Libft](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/libftm.png)](https://github.com/humbertoarndt/libft) |
+| 1 | [get_next_line](https://github.com/humbertoarndt/get_next_line) | C | 100% | 02/05/2022 | 16/05/2022 | Read a single line from a fd. | [![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linee.png)](https://github.com/humbertoarndt/get_next_line) |
+| 1 | [ft_printf](https://github.com/humbertoarndt/ft_printf) | C | 100% | 16/05/2022 | 30/05/2022 | Recreates the printf function. | [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/humbertoarndt/ft_printf) |
+| 1 | [born2beroot](https://github.com/humbertoarndt/Born2beRoot) | Shell, CLI | 100% | 31/05/2022 | 25/06/2022 | Create a virtual machine. | [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) |
+| 1 | [fdf](https://github.com/humbertoarndt/FdF) | C | 125% | 27/06/2022 | 14/08/2022 | Create a program to represent a landscape as a 3D object as a wireframe. | [![FDF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfm.png)](https://github.com/humbertoarndt/FdF) |
+| 1 | [minitalk](https://github.com/humbertoarndt/minitalk) | C | 115% | 15/08/2022 | 03/09/2022 | Create a small data exchange program using UNIX signals. | [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkm.png)](https://github.com/humbertoarndt/minitalk) |
+| 2 | [push_swap](https://github.com/humbertoarndt/push_swap) | C | 86% | 07/09/2022 | 13/10/2022 | Sort a list o random numbers in the least amount of moves possible. | [![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)](https://github.com/humbertoarndt/push_swap) |
+| 2 | [minishell](https://github.com/humbertoarndt/minishell) | C | 101% | 17/10/2022 | 23/01/2023 | In a group, create a miniature shell program. | [![minishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishellm.png)](https://github.com/humbertoarndt/minishell)
+| LABS | [labs-v4](https://github.com/humbertoarndt/labs-v4) | C | Approved | 16/01/2023 | 22/01/2023 | Encode and Decode a file using Huffman Code and shared memory. | No badge |
+| 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | WIP | 23/01/2023 | TBA | Resolve a variation on the famous dining philosophers problem.  |
   
 </details>
 
