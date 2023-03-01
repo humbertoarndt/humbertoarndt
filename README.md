@@ -17,7 +17,8 @@
 | 2 | [push_swap](https://github.com/humbertoarndt/push_swap) | C | 86% | 07/09/2022 | 13/10/2022 | Sort a list o random numbers in the least amount of moves possible. | [![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)](https://github.com/humbertoarndt/push_swap) |
 | 2 | [minishell](https://github.com/humbertoarndt/minishell) | C | 101% | 17/10/2022 | 23/01/2023 | In a group, create a miniature shell program. | [![minishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishellm.png)](https://github.com/humbertoarndt/minishell)
 | LABS | [labs-v4](https://github.com/humbertoarndt/labs-v4) | C | Approved | 16/01/2023 | 22/01/2023 | Encode and Decode a file using Huffman Code and shared memory. | No badge |
-| 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | 100% | 23/01/2023 | 27/01/2023 | Resolve a variation on the famous dining philosophers problem.  | [![philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosopherse.png)]([https://github.com/humbertoarndt/push_swap](https://github.com/humbertoarndt/philosophers)) |
+| 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | 100% | 23/01/2023 | 27/01/2023 | Resolve a variation on the famous dining philosophers problem.  | [![philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosopherse.png)](https://github.com/humbertoarndt/philosophers) |
+| 2 | [netpractice](https://github.com/humbertoarndt/netpractice) | TCP/IP | 100% | 12/02/2023 | 28/02/2023 | Resolve network errors in a small-scale network training environment. | [![netpractice](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/humbertoarndt/netpractice) |
   
 </details>
 
