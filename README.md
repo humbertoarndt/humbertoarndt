@@ -1,4 +1,4 @@
-# Hi there 👋 - teste
+# Hi there 👋
 * 👨‍🎓 I'm a student at [42 São Paulo](https://www.42sp.org.br)
 * 🔰 Learning `C` and `C++`at the moment
 
