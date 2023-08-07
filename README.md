@@ -1,6 +1,7 @@
 # Hi there 👋
-* 👨‍🎓 I'm a student at [42 São Paulo](https://www.42sp.org.br)
 * 🔰 Learning `C` and `C++` at the moment
+* 👨‍🎓 I'm a student at [42 São Paulo](https://www.42sp.org.br)
+* 🎓 Graduated in [Information Systems by Anhembi Morumbi](https://portal.anhembi.br/graduacao/sistemas-de-informacao/) in 2016
 
 ---
 
