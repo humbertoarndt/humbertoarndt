@@ -20,7 +20,7 @@
 | 2 | [philosophers](https://github.com/humbertoarndt/philosophers) | C | 100% | 23/01/2023 | 27/01/2023 | Resolve a variation on the famous dining philosophers problem.  | [![philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosopherse.png)](https://github.com/humbertoarndt/philosophers) |
 | 2 | [netpractice](https://github.com/humbertoarndt/netpractice) | TCP/IP | 100% | 12/02/2023 | 28/02/2023 | Resolve network errors in a small-scale network training environment. | [![netpractice](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/humbertoarndt/netpractice) |
 | 2 | [cub3D](https://github.com/humbertoarndt/cub3D) | C | 101% | 06/03/2023 | 02/04/2023 | Create a 3D game using raycaster. | [![cub3d](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cub3dm.png)](https://github.com/humbertoarndt/cub3D) |
-| 3 | [CPP](https://github.com/humbertoarndt/piscine_cpp) | C++ | 96.5% | 04/02/2023 | 08/04/2023 | 10 CPP modules designed to learn the language and OOP. | [![CPP](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppe.png)](https://github.com/humbertoarndt/piscine_cpp) |
+| 3 | [CPP](https://github.com/humbertoarndt/piscine_cpp) | C++ | 96.5% | 04/02/2023 | 08/04/2023 | A collection of small 42 school projects about C++. | [![CPP](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppe.png)](https://github.com/humbertoarndt/piscine_cpp) |
   
 </details>
 
