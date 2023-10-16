@@ -1,7 +1,17 @@
 # Hi there 👋
-* 🔰 Learning `C` and `C++` at the moment
-* 👨‍🎓 I'm a student at [42 São Paulo](https://www.42sp.org.br)
-* 🎓 Graduated in [Information Systems by Anhembi Morumbi](https://portal.anhembi.br/graduacao/sistemas-de-informacao/) in 2016
+I'm Humberto, a student at [42 São Paulo](https://www.42sp.org.br).
+
+## 🎓 Education
+* Postgraduated in Project Management by USP/Esalq in 2018
+* Graduated in Information Systems by Anhembi Morumbi in 2016
+
+## 🖥 External Education
+* [42 São Paulo](https://www.42sp.org.br) 2022/2023 - C, C++, Unix
+* [Digital House](https://www.digitalhouse.com/br) 2019 - UX Design
+
+## 👨‍💻 Technical Programs
+* Software Engineet at Labs by 42 São Paulo - 2023
+* UX Designer at KPMG Brasil - 2019
 
 ---
 
@@ -22,6 +32,7 @@
 | 2 | [netpractice](https://github.com/humbertoarndt/netpractice) | TCP/IP | 100% | 12/02/2023 | 28/02/2023 | Resolve network errors in a small-scale network training environment. | [![netpractice](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/netpracticee.png)](https://github.com/humbertoarndt/netpractice) |
 | 2 | [cub3D](https://github.com/humbertoarndt/cub3D) | C | 101% | 06/03/2023 | 02/04/2023 | Create a 3D game using raycaster. | [![cub3d](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cub3dm.png)](https://github.com/humbertoarndt/cub3D) |
 | 3 | [CPP](https://github.com/humbertoarndt/piscine_cpp) | C++ | 96.5% | 02/04/2023 | 04/08/2023 | A collection of small 42 school projects about C++. | [![CPP](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/cppe.png)](https://github.com/humbertoarndt/piscine_cpp) |
+| 3 | [Inception](https://github.com/humbertoarndt/Inception) | Dockerfile | 100% | 06/08/2023 | 10/10/2023 | Create a small docker network with separate containers for NginX, Wordpress and MariaDB. | [![Inception](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/inceptione.png)](https://github.com/humbertoarndt/Inception) |
   
 </details>
 
