@@ -6,8 +6,8 @@ I'm Humberto, a student at [42 São Paulo](https://www.42sp.org.br).
 * Graduated in Information Systems by Anhembi Morumbi in 2016
 
 ## 🖥 External Education
-* [42 São Paulo](https://www.42sp.org.br) 2022/2023 - C, C++, Unix
-* [Digital House](https://www.digitalhouse.com/br) 2019 - UX Design
+* [42 São Paulo](https://www.42sp.org.br) - 2022/2023 - C, C++, Unix
+* [Digital House](https://www.digitalhouse.com/br) - 2019 - UX Design
 
 ## 👨‍💻 Technical Programs
 * Software Engineet at Labs by 42 São Paulo - 2023
