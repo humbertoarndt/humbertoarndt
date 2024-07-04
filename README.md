@@ -11,6 +11,7 @@ I'm Humberto, a student at [42 São Paulo](https://www.42sp.org.br).
 * [Digital House](https://www.digitalhouse.com/br) - 2019 - UX Design
 
 ## 👨‍💻 Technical Programs
+* IT Engineering Intern at Itaú Unibanco - 2024
 * Software Engineer at Labs by 42 São Paulo - 2023
 * UX Designer at KPMG Brasil - 2019
 
